@@ -1,6 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 #new commit test1
-#commit test from another device
+#commit test from another device 3
 #TEST PULL REQUEST
 # dependencies
 /node_modules
